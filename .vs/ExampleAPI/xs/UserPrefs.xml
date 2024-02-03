@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{93A295F1-B0B8-480A-868B-9F8AA4BCCBF7}|https">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExampleAPI/Context/ExampleDbContext.cs">
+    <Files>
+      <File FileName="ExampleAPI/Program.cs" Line="13" Column="51" />
+      <File FileName="ExampleAPI/Core/BaseRepository.cs" Line="18" Column="6" />
+      <File FileName="ExampleAPI/Repositories/Abstract/IUserRepository.cs" Line="12" Column="1" />
+      <File FileName="ExampleAPI/Repositories/Concretes/UserRepository.cs" Line="9" Column="47" />
+      <File FileName="ExampleAPI/Controllers/UsersController.cs" Line="44" Column="1" />
+      <File FileName="ExampleAPI/Core/Entity.cs" Line="12" Column="2" />
+      <File FileName="ExampleAPI/Entities/User.cs" Line="13" Column="2" />
+      <File FileName="ExampleAPI/Context/ExampleDbContext.cs" Line="22" Column="4" />
+      <File FileName="ExampleAPI/appsettings.json" Line="10" Column="53" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExampleAPI" expanded="True">
+            <Node name="ExampleAPI" expanded="True">
+              <Node name="Dependencies" expanded="True" />
+              <Node name="Context" expanded="True" />
+              <Node name="Controllers" expanded="True" />
+              <Node name="Core" expanded="True" />
+              <Node name="Entities" expanded="True" />
+              <Node name="Repositories" expanded="True">
+                <Node name="Abstract" expanded="True" />
+                <Node name="Concretes" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ExampleAPI PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+</Properties>
